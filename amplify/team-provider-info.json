@@ -1,0 +1,19 @@
+{
+    "production": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-agora-20190227230642-authRole",
+            "UnauthRoleArn": "arn:aws:iam::675355387930:role/amplify-agora-20190227230642-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::675355387930:role/amplify-agora-20190227230642-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-agora-20190227230642-deployment",
+            "UnauthRoleName": "amplify-agora-20190227230642-unauthRole",
+            "StackName": "amplify-agora-20190227230642",
+            "StackId": "arn:aws:cloudformation:eu-west-1:675355387930:stack/amplify-agora-20190227230642/f814c3b0-3adb-11e9-9770-06b2a79f881c"
+        },
+        "categories": {
+            "auth": {
+                "cognitoec22aa77": {}
+            }
+        }
+    }
+}
