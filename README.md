@@ -1,5 +1,7 @@
 ## schema.graphql
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/skdigital/amplify-agora.svg)](https://greenkeeper.io/)
+
 ```graphql
 type Market @model @searchable {
   id: ID!
